@@ -3651,7 +3651,7 @@ INSERT INTO `subregions` (`id`, `region_id`, `name`, `timezone`) VALUES
 (3628, 818, 'Al Qāhirah', 'Africa/Cairo'),
 (3629, 818, 'Al Qalyūbīyah', 'Africa/Cairo'),
 (3630, 818, 'Al Wādī al Jadīd', 'Africa/Cairo'),
-(3631, 818, 'Eastern Province', 'Africa/Cairo'),
+(3631, 818, 'Al sharqīya', 'Africa/Cairo'),
 (3632, 818, 'As Suways', 'Africa/Cairo'),
 (3633, 818, 'Aswān', 'Africa/Cairo'),
 (3634, 818, 'Asyūţ', 'Africa/Cairo'),
@@ -3659,7 +3659,7 @@ INSERT INTO `subregions` (`id`, `region_id`, `name`, `timezone`) VALUES
 (3636, 818, 'Būr Sa‘īd', 'Africa/Cairo'),
 (3637, 818, 'Dumyāţ', 'Africa/Cairo'),
 (3638, 818, 'Kafr ash Shaykh', 'Africa/Cairo'),
-(3639, 818, 'Maţrūḩ', 'Africa/Cairo'),
+(3639, 818, 'Marsa Maţrūḩ', 'Africa/Cairo'),
 (3640, 818, 'Qinā', 'Africa/Cairo'),
 (3641, 818, 'Sūhāj', 'Africa/Cairo'),
 (3642, 818, 'Janūb Sīnāʼ', 'Africa/Cairo'),
@@ -3899,7 +3899,11 @@ INSERT INTO `subregions` (`id`, `region_id`, `name`, `timezone`) VALUES
 (3876, 894, 'Eastern', 'Africa/Lusaka'),
 (3877, 894, 'Northern', 'Africa/Lusaka'),
 (3878, 894, 'Luapula', 'Africa/Lusaka'),
-(3879, 894, 'Lusaka', 'Africa/Lusaka');
+(3879, 894, 'Lusaka', 'Africa/Lusaka'),
+(3880, 818, 'Banha', 'Africa/Cairo'),
+(3881, 818, 'Al salloum', 'Africa/Cairo'),
+(3882, 818, 'halayeb w shalateen', 'Africa/Cairo'),
+(3883, 818, 'Qaha', 'Africa/Cairo');
 
 --
 -- Constraints for dumped tables
